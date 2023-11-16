@@ -1,6 +1,5 @@
 ## Hi there 👋
 Welcome to Seahorse, the project that elevates your file management to new heights. Seahorse is a file cloud solution crafted with cutting-edge technologies like Golang and SvelteKit. This powerful combination ensures not only fast and efficient server-side operations but also a user-friendly interface on the client side.
-Why Seahorse?
 
 ## Why Seahorse?
 Seahorse was born from the belief that file management and sharing should be seamless, secure, and user-friendly. Whether you're handling sensitive business data, creative projects, or personal files, Seahorse provides the optimal platform for you.
